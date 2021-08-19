@@ -1,0 +1,196 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    header{
+      width: 712px;
+      height: 1311px;
+    }
+    .head-left h1{
+      font-size: 61px;
+    }
+    .head-left p {
+      margin-bottom: 30px;
+      color: #fff;
+      font-size: 28px;
+      line-height: 1.6;
+      margin-top: 30px;
+      font-weight: 500;
+      margin-right: 102px;
+      font-family: 'Archivo', sans-serif;
+  }
+  .head-btn {
+    padding: 30px 65px;
+  }
+  .btn-secondary {
+    font-size: 20px !important;
+  }
+  header .offset-3{
+    margin-left: 0px;
+  }
+  .head-right {
+    margin-top: 40px;
+    margin: 115px;
+}
+
+/* solution section */
+.solution-section {
+  width: 712px;
+}
+.sol-head p {
+  font-size: 24px;
+  margin: 0px 40px 0px 40px;
+}
+.solution-port {
+  margin-right: 0px;
+  }
+  .solution-port span {
+    font-size: 25px;
+  }
+  .solution-port h5 a{
+    font-size: 33px !important;
+  }
+  .solution-port p {
+    font-size: 25px;
+  }
+  /* custom satisfaction sec */
+  .guide-project {
+    width: 712px;
+  }
+  .guide-project .offset-1{
+    margin-left: 0px;
+  }
+  .loan-section1{
+    margin-top: 110px;
+  }
+  .loan-section1 h1{
+    font-size: 50px;
+  }
+  .loan-section1 p{
+    font-size: 28px;
+  }
+  .steps span {
+    font-size: 26px;
+  }
+  .l-btn button {
+    padding: 23px 61px;
+    font-size: 24px;
+  }
+  /* why choose us */
+  .choose-section{
+    width: 712px;
+  }
+  .choose-head h1 {
+    font-size: 56px;
+  }
+  .choose-head p {
+    margin: 0px;
+    font-size: 27px;
+  }
+  .choose-port h5 a{
+    font-size: 42px;
+  }
+  .choose-port p {
+    font-size: 22px;
+  }
+/* loan steps sec */
+.easy-loan {
+  width: 712px;
+}
+.loan-section h1{
+  font-size: 50px;
+}
+.loan-section p{
+  font-size: 27px;
+}
+.loan-secr{
+  margin-top: 65px;
+}
+
+/* latest news section */
+.news-section {
+  width: 712px;
+}
+.news-head h1 {
+  font-size: 58px;
+}
+
+
+
+.footer-section {
+  width: 712px;
+}
+.foot-text p{
+  font-size: 28px;
+}
+.footer-section .offset-1{
+  margin-left: 0px;
+}
+.foot-text h4{
+  font-size: 38px;
+}
+.foot-text a{
+  font-size: 24px;
+}
+.foot-form input{
+  height: 80px;
+}
